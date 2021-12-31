@@ -1,0 +1,36 @@
+h1
+{
+    background-color: rgb(140, 64, 226);
+    font-style: oblique;
+    text-size-adjust: 50px;
+    
+}
+body
+{
+    background-color: rgb(137, 43, 226);
+    background-image:image-set(bike2);
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:picture-in-picture {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    
+    contacts desc{
+image-orientation: height: 12;
+image-orientation: width :10;
+    }
+  
+}

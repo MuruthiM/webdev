@@ -1,0 +1,32 @@
+h1
+   {
+    color: rgb(192, 151, 151);
+    text-align: center;
+    font-size: 44;
+  }
+  title
+  {
+    animation-name: calc(5sec);
+  }
+  
+  
+  p {
+   
+    font-size: 20px;
+    color: rgb(76, 0, 255);
+  }  
+  head
+  {
+    color: rgb(206, 19, 166); 
+    font-style:italic;
+    font-weight: bolder;
+    font-size: larger; 
+  }
+  body
+  {
+     background-color: aqua;
+     font-size:medium;
+     background-image: url(../webdev/images/bike6.jpg);
+     background-blend-mode: lighten;
+  }
+    
